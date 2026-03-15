@@ -122,6 +122,7 @@ These analyses helped identify key predictors such as:
 	•	Study hours
 	•	CGPA
 Project Structure
+```
 Student-Burnout-Academic-Risk-Prediction
 │
 ├── data
@@ -153,7 +154,7 @@ Student-Burnout-Academic-Risk-Prediction
 │
 └── z_app
     └── app.py
-
+```
 #Installation
 
 #Clone the repository
